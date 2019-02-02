@@ -1,0 +1,33 @@
+ .qc-cmp-button {
+          background-color: #ffffff !important;
+          border-color: #ffffff !important;
+        }
+        .qc-cmp-button:hover {
+          background-color: transparent !important;
+          border-color: #ffffff !important;
+        }
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+          color: #ffffff !important;
+        }
+        .qc-cmp-button {
+          color: #0f0f0f !important;
+        }
+        .qc-cmp-ui a,
+        .qc-cmp-ui .qc-cmp-alt-action {
+          color: #ffffff !important;
+        }
+        .qc-cmp-ui {
+            background-color: #d97070 !important;
+        }
+        .qc-cmp-publisher-purposes-table .qc-cmp-table-header {
+          background-color: #fafafa !important;
+        }
+        .qc-cmp-publisher-purposes-table .qc-cmp-table-row {
+          background-color: #ffffff !important;
+        }
+        .qc-cmp-small-toggle.qc-cmp-toggle-on,
+        .qc-cmp-toggle.qc-cmp-toggle-on {
+            background-color: #00cc00 !important;
+            border-color: #00cc00 !important;
+        }
